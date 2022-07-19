@@ -1,0 +1,25 @@
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+node_modules/
+unpackage/
+**/unpackage/
+dist/
+**/dist/
+
+.idea
+.idea/
+.env
+
+# 开发配置
+.prettierrc.js
+.eslintrc.js
