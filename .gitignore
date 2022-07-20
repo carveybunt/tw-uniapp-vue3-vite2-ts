@@ -19,7 +19,3 @@ dist/
 .idea
 .idea/
 .env
-
-# 开发配置
-.prettierrc.js
-.eslintrc.js
