@@ -4,3 +4,7 @@
 - vue 3
 - vite 2
 - eslint
+
+## 实现
+- ts vite @别名
+- pina

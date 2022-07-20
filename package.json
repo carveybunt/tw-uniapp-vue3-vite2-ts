@@ -62,6 +62,7 @@
     "eslint-plugin-n": "^15.0.0",
     "eslint-plugin-promise": "^6.0.0",
     "eslint-plugin-vue": "^9.2.0",
+    "pinia": "^2.0.16",
     "postcss": "^8.4.14",
     "postcss-class-rename": "^1.0.1",
     "prettier": "^2.7.1",
